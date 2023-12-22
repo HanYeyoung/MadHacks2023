@@ -51,3 +51,4 @@ app.py
 
 # Madhacks Fall 2023
 https://madhacks-fall-2023.devpost.com/
+https://devpost.com/software/discrete-learning
