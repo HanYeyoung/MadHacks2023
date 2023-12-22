@@ -48,3 +48,6 @@ LinearAlgebraFiles
 
 app.py
 - basic Flask application
+
+# Madhacks Fall 2023
+https://madhacks-fall-2023.devpost.com/
